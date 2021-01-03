@@ -13,6 +13,7 @@ I am always looking for new connections on [LinkedIn](https://www.linkedin.com/i
 <a href="https://linkedin.com/in/priyasinha1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyasinha1" height="30" width="40" /></a>
 <a href="https://kaggle.com/priyasinha1225" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="priyasinha1225" height="30" width="40" /></a>
 <a href="https://fb.com/9523829213" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="9523829213" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
