@@ -9,9 +9,9 @@ I am always looking for new connections on [LinkedIn](https://www.linkedin.com/i
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/priyasi21286435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priyasi21286435" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/priyasinha1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="priyasinha1" height="30" width="40" /></a>
 <a href="https://kaggle.com/priyasinha1225" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="priyasinha1225" height="30" width="40" /></a>
+<a href="https://twitter.com/priyasi21286435" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="priyasi21286435" height="30" width="40" /></a>
 
   
 </p>
